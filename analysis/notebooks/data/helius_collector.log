@@ -1,0 +1,386 @@
+2025-04-24 22:33:26,969 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 22:33:26,970 - range_collector - INFO - Initialized Range collector
+2025-04-24 22:33:27,034 - helius_collector - INFO - Fetching transaction history for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:33:27,035 - helius_collector - INFO - Getting signatures for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:33:27,235 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 22:33:27,238 - helius_collector - INFO - Fetching transaction history for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:33:27,239 - helius_collector - INFO - Getting signatures for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:33:27,278 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 22:33:32,627 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 22:33:32,628 - range_collector - INFO - Initialized Range collector
+2025-04-24 22:33:32,740 - helius_collector - INFO - Fetching transaction history for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:33:32,741 - helius_collector - INFO - Getting signatures for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:33:32,787 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 22:33:32,789 - helius_collector - INFO - Fetching transaction history for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:33:32,789 - helius_collector - INFO - Getting signatures for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:33:33,000 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 22:34:06,711 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 22:34:06,712 - range_collector - INFO - Initialized Range collector
+2025-04-24 22:34:06,768 - helius_collector - INFO - Fetching transaction history for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:34:06,769 - helius_collector - INFO - Getting signatures for TCnifB7JjcmXP5F7hJ9wQDEq47Qympz4JbRRUBtcEJ8 (limit: 100)
+2025-04-24 22:34:06,826 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 22:34:06,827 - helius_collector - INFO - Fetching transaction history for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:34:06,828 - helius_collector - INFO - Getting signatures for TCxZde8bp2sp5s7fK8K4nnzJWXpMjHmYLAXPYvgdz4Z (limit: 100)
+2025-04-24 22:34:07,017 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:44,342 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:30:44,345 - range_collector - INFO - Initialized Range collector
+2025-04-24 23:30:44,362 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 200)
+2025-04-24 23:30:44,363 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:30:44,452 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:44,505 - helius_collector - INFO - Analyzing token transfers for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:30:44,507 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 200)
+2025-04-24 23:30:44,509 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:30:44,598 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:44,599 - helius_collector - INFO - Detecting dusting attacks for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (threshold: 0.1 USD)
+2025-04-24 23:30:44,601 - helius_collector - INFO - Analyzing token transfers for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:30:44,603 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 1000)
+2025-04-24 23:30:44,603 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:30:44,809 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:44,811 - helius_collector - INFO - Detecting address poisoning for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:30:44,811 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 1000)
+2025-04-24 23:30:44,813 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:30:44,998 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:45,000 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 200)
+2025-04-24 23:30:45,000 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:30:45,200 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:45,202 - helius_collector - INFO - Analyzing token transfers for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:30:45,203 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 200)
+2025-04-24 23:30:45,203 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:30:45,398 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:45,399 - helius_collector - INFO - Detecting dusting attacks for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (threshold: 0.1 USD)
+2025-04-24 23:30:45,399 - helius_collector - INFO - Analyzing token transfers for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:30:45,401 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 1000)
+2025-04-24 23:30:45,401 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:30:45,602 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:45,604 - helius_collector - INFO - Detecting address poisoning for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:30:45,604 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 1000)
+2025-04-24 23:30:45,606 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:30:45,808 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:45,812 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 200)
+2025-04-24 23:30:45,812 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:30:46,020 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:46,022 - helius_collector - INFO - Analyzing token transfers for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:30:46,023 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 200)
+2025-04-24 23:30:46,023 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:30:46,206 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:46,207 - helius_collector - INFO - Detecting dusting attacks for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (threshold: 0.1 USD)
+2025-04-24 23:30:46,207 - helius_collector - INFO - Analyzing token transfers for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:30:46,209 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 1000)
+2025-04-24 23:30:46,209 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:30:46,411 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:30:46,411 - helius_collector - INFO - Detecting address poisoning for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:30:46,413 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 1000)
+2025-04-24 23:30:46,413 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:30:46,624 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:06,385 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:33:06,387 - range_collector - INFO - Initialized Range collector
+2025-04-24 23:33:06,406 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 200)
+2025-04-24 23:33:06,407 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:33:06,529 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:06,541 - helius_collector - INFO - Analyzing token transfers for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:33:06,542 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 200)
+2025-04-24 23:33:06,543 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:33:06,656 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:06,658 - helius_collector - INFO - Detecting dusting attacks for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (threshold: 0.1 USD)
+2025-04-24 23:33:06,659 - helius_collector - INFO - Analyzing token transfers for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:33:06,661 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 1000)
+2025-04-24 23:33:06,662 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:33:06,859 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:06,861 - helius_collector - INFO - Detecting address poisoning for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD
+2025-04-24 23:33:06,862 - helius_collector - INFO - Fetching transaction history for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 1000)
+2025-04-24 23:33:06,863 - helius_collector - INFO - Getting signatures for Gnt27xtC473ZT2Mw5u8wZ68Z3gULkSTb5DuxJy7eJotD (limit: 100)
+2025-04-24 23:33:07,052 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:07,054 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 200)
+2025-04-24 23:33:07,055 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:33:07,258 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:07,260 - helius_collector - INFO - Analyzing token transfers for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:33:07,261 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 200)
+2025-04-24 23:33:07,261 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:33:07,481 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:07,484 - helius_collector - INFO - Detecting dusting attacks for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (threshold: 0.1 USD)
+2025-04-24 23:33:07,485 - helius_collector - INFO - Analyzing token transfers for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:33:07,486 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 1000)
+2025-04-24 23:33:07,486 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:33:07,662 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:07,663 - helius_collector - INFO - Detecting address poisoning for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH
+2025-04-24 23:33:07,664 - helius_collector - INFO - Fetching transaction history for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 1000)
+2025-04-24 23:33:07,666 - helius_collector - INFO - Getting signatures for dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH (limit: 100)
+2025-04-24 23:33:07,854 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:07,856 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 200)
+2025-04-24 23:33:07,857 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:33:08,045 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:08,046 - helius_collector - INFO - Analyzing token transfers for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:33:08,047 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 200)
+2025-04-24 23:33:08,048 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:33:08,249 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:08,250 - helius_collector - INFO - Detecting dusting attacks for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (threshold: 0.1 USD)
+2025-04-24 23:33:08,251 - helius_collector - INFO - Analyzing token transfers for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:33:08,253 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 1000)
+2025-04-24 23:33:08,253 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:33:08,447 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:33:08,449 - helius_collector - INFO - Detecting address poisoning for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8
+2025-04-24 23:33:08,450 - helius_collector - INFO - Fetching transaction history for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 1000)
+2025-04-24 23:33:08,451 - helius_collector - INFO - Getting signatures for AAzeEnHVAZzMNZN2xLWfSbo8RgZZ9INENT2VUE8AnX8 (limit: 100)
+2025-04-24 23:33:08,655 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-24 23:42:52,857 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:42:52,880 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 23:42:52,884 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 23:42:52,941 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:00,149 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7147A0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:00,151 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:00,154 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AFD10>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:00,155 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:00,488 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DC3E0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:00,511 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:00,820 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AFC50>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:00,823 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:01,167 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-24 23:43:01,168 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:01,172 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922581&timeEnd=1745527381 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AEA50>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:01,173 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:01,506 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DC560>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:01,507 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:01,671 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-24 23:43:01,672 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:01,846 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922581&timeEnd=1745527381 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DD010>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:01,847 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:02,175 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DE5A0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:02,175 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:02,323 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-24 23:43:02,325 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:02,508 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922582&timeEnd=1745527382 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AEA50>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:24,781 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:43:24,783 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 23:43:24,784 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 23:43:24,816 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:24,873 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DE900>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:24,875 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:25,153 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C905A90>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:25,155 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:25,488 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C905730>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:25,509 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:25,823 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7DF1D0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:25,823 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:25,986 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-24 23:43:25,988 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:43:26,157 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922605&timeEnd=1745527405 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C904350>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:26,157 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:26,492 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C905A00>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:26,493 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:26,687 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-24 23:43:26,689 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:43:26,825 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922606&timeEnd=1745527406 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C904920>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:26,825 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:27,161 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C907050>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:43:27,161 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:27,323 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-24 23:43:27,324 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:43:27,494 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922607&timeEnd=1745527407 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C905940>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:27,986 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:46:27,997 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 23:46:27,999 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 23:46:28,049 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:46:28,143 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AFBC0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:28,145 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:46:28,388 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C905BB0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:28,390 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:46:28,721 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C906C60>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:28,756 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:46:29,052 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9059A0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:29,055 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:46:29,338 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-24 23:46:29,339 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:46:29,396 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922789&timeEnd=1745527589 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C906600>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:29,399 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:46:29,721 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AC5C0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:29,723 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:46:29,921 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-24 23:46:29,924 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:46:30,056 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922789&timeEnd=1745527589 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C88EC30>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:30,057 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:46:30,391 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C88E030>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:46:30,393 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:46:30,532 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-24 23:46:30,533 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:46:30,725 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922790&timeEnd=1745527590 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C7AFD10>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:10,262 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:47:10,266 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 23:47:10,270 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 23:47:10,425 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:47:10,477 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AD9D0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:10,480 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:47:10,762 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AD010>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:10,766 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:47:11,097 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9ADD00>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:11,133 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:47:11,429 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AC170>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:11,430 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:47:11,669 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-24 23:47:11,669 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:47:11,764 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922831&timeEnd=1745527631 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9ADF70>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:11,766 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:47:12,096 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AD2B0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:12,098 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:47:12,247 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-24 23:47:12,249 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:47:12,431 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922832&timeEnd=1745527632 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AC5F0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:12,433 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:47:12,765 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AFB00>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:47:12,766 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:47:12,980 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-24 23:47:12,981 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:47:13,098 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744922832&timeEnd=1745527632 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AF170>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:25,585 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 23:57:25,590 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 23:57:25,593 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 23:57:25,645 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:57:36,767 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C812150>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:36,768 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:57:36,825 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AEE70>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:36,825 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:57:37,107 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AFC80>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:37,129 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:57:37,439 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C812150>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:37,442 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:57:37,631 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-24 23:57:37,633 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-24 23:57:37,775 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744923457&timeEnd=1745528257 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AE810>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:37,777 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:57:38,108 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AFB30>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:38,109 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:57:38,268 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-24 23:57:38,270 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-24 23:57:38,442 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744923458&timeEnd=1745528258 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9AE930>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:38,443 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:57:38,777 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C763140>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-24 23:57:38,777 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:57:38,976 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-24 23:57:38,976 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-24 23:57:39,111 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744923458&timeEnd=1745528258 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B29C9ADF70>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:31,327 - helius_collector - INFO - Initialized Helius collector
+2025-04-25 00:13:31,336 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-25 00:13:31,338 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-25 00:13:31,395 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:13:45,476 - helius_collector - INFO - Initialized Helius collector
+2025-04-25 00:13:45,477 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-25 00:13:45,478 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-25 00:13:45,518 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:13:45,573 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DCC496180>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:45,575 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:13:45,855 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03CC50>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:45,856 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:13:46,190 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03DA90>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:46,203 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:13:46,523 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03EA20>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:46,524 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:13:46,694 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-25 00:13:46,696 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:13:46,856 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744924426&timeEnd=1745529226 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03DF40>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:46,857 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:13:47,190 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03EF30>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:47,191 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:13:47,350 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-25 00:13:47,351 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:13:47,525 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744924427&timeEnd=1745529227 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03EFC0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:47,526 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:13:47,859 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DEAF2AE10>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:13:47,860 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:13:48,044 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-25 00:13:48,045 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:13:48,194 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744924428&timeEnd=1745529228 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED03E6F0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:29:55,726 - helius_collector - INFO - Initialized Helius collector
+2025-04-25 00:29:55,728 - range_collector - INFO - Initialized Range collector
+2025-04-25 00:29:55,730 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-25 00:29:55,746 - range_collector - INFO - Getting risk score for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ on solana
+2025-04-25 00:29:59,014 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana
+2025-04-25 00:29:59,016 - helius_collector - INFO - Fetching transaction history for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ (limit: 100)
+2025-04-25 00:29:59,017 - helius_collector - INFO - Getting signatures for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ (limit: 100)
+2025-04-25 00:29:59,093 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:29:59,130 - helius_collector - INFO - Analyzing token transfers for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ
+2025-04-25 00:29:59,131 - helius_collector - INFO - Fetching transaction history for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ (limit: 100)
+2025-04-25 00:29:59,132 - helius_collector - INFO - Getting signatures for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ (limit: 100)
+2025-04-25 00:29:59,260 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:29:59,261 - range_collector - INFO - Analyzing money laundering routes for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ
+2025-04-25 00:29:59,262 - range_collector - INFO - Getting risk score for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ on solana
+2025-04-25 00:29:59,407 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana
+2025-04-25 00:29:59,408 - range_collector - WARNING - Failed to get risk score for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana
+2025-04-25 00:29:59,409 - range_collector - INFO - Getting transactions for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ on solana
+2025-04-25 00:29:59,920 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana&limit=100&page=1
+2025-04-25 00:29:59,921 - range_collector - WARNING - Failed to get transactions for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ (page 1): Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana&limit=100&page=1
+2025-04-25 00:29:59,923 - range_collector - INFO - Retrieved 0 transactions for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ
+2025-04-25 00:29:59,924 - range_collector - INFO - Getting counterparties for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ on solana
+2025-04-25 00:30:00,425 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana
+2025-04-25 00:30:00,425 - range_collector - WARNING - Failed to get counterparties for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ&network=solana
+2025-04-25 00:30:00,427 - range_collector - INFO - Identified 0 high-risk counterparties for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ
+2025-04-25 00:30:00,428 - range_collector - INFO - No suspicious transaction flows detected for EWuhy7xoH9AXtMwUGpg3wKVgtXqQJ6uGADDQPaczCgVJ
+2025-04-25 00:30:00,430 - range_collector - INFO - Getting risk score for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC on solana
+2025-04-25 00:30:00,933 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana
+2025-04-25 00:30:00,935 - helius_collector - INFO - Fetching transaction history for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC (limit: 100)
+2025-04-25 00:30:00,936 - helius_collector - INFO - Getting signatures for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC (limit: 100)
+2025-04-25 00:30:00,970 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:30:00,972 - helius_collector - INFO - Analyzing token transfers for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC
+2025-04-25 00:30:00,972 - helius_collector - INFO - Fetching transaction history for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC (limit: 100)
+2025-04-25 00:30:00,973 - helius_collector - INFO - Getting signatures for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC (limit: 100)
+2025-04-25 00:30:01,171 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:30:01,173 - range_collector - INFO - Analyzing money laundering routes for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC
+2025-04-25 00:30:01,173 - range_collector - INFO - Getting risk score for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC on solana
+2025-04-25 00:30:01,411 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana
+2025-04-25 00:30:01,413 - range_collector - WARNING - Failed to get risk score for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana
+2025-04-25 00:30:01,414 - range_collector - INFO - Getting transactions for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC on solana
+2025-04-25 00:30:01,927 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana&limit=100&page=1
+2025-04-25 00:30:01,928 - range_collector - WARNING - Failed to get transactions for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC (page 1): Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana&limit=100&page=1
+2025-04-25 00:30:01,929 - range_collector - INFO - Retrieved 0 transactions for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC
+2025-04-25 00:30:01,929 - range_collector - INFO - Getting counterparties for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC on solana
+2025-04-25 00:30:02,415 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana
+2025-04-25 00:30:02,415 - range_collector - WARNING - Failed to get counterparties for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC&network=solana
+2025-04-25 00:30:02,416 - range_collector - INFO - Identified 0 high-risk counterparties for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC
+2025-04-25 00:30:02,417 - range_collector - INFO - No suspicious transaction flows detected for DKZYkQzTq4UgQx8hK3YHyJjnhGckZbWUxWoFCzga7VdC
+2025-04-25 00:30:02,419 - range_collector - INFO - Getting risk score for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV on solana
+2025-04-25 00:30:02,928 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana
+2025-04-25 00:30:02,929 - helius_collector - INFO - Fetching transaction history for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV (limit: 100)
+2025-04-25 00:30:02,930 - helius_collector - INFO - Getting signatures for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV (limit: 100)
+2025-04-25 00:30:02,969 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:30:02,971 - helius_collector - INFO - Analyzing token transfers for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV
+2025-04-25 00:30:02,972 - helius_collector - INFO - Fetching transaction history for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV (limit: 100)
+2025-04-25 00:30:02,972 - helius_collector - INFO - Getting signatures for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV (limit: 100)
+2025-04-25 00:30:03,166 - helius_collector - ERROR - Failed to make RPC request: 401 Client Error: Unauthorized for url: https://mainnet.helius-rpc.com/?api-key=None
+2025-04-25 00:30:03,167 - range_collector - INFO - Analyzing money laundering routes for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV
+2025-04-25 00:30:03,167 - range_collector - INFO - Getting risk score for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV on solana
+2025-04-25 00:30:03,417 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana
+2025-04-25 00:30:03,418 - range_collector - WARNING - Failed to get risk score for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/risk/address?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana
+2025-04-25 00:30:03,420 - range_collector - INFO - Getting transactions for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV on solana
+2025-04-25 00:30:03,913 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana&limit=100&page=1
+2025-04-25 00:30:03,914 - range_collector - WARNING - Failed to get transactions for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV (page 1): Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/transactions?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana&limit=100&page=1
+2025-04-25 00:30:03,916 - range_collector - INFO - Retrieved 0 transactions for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV
+2025-04-25 00:30:03,917 - range_collector - INFO - Getting counterparties for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV on solana
+2025-04-25 00:30:04,414 - range_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana
+2025-04-25 00:30:04,415 - range_collector - WARNING - Failed to get counterparties for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV: Request failed: 401 Client Error: Unauthorized for url: https://api.range.org/v1/address/counterparties?address=FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV&network=solana
+2025-04-25 00:30:04,416 - range_collector - INFO - Identified 0 high-risk counterparties for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV
+2025-04-25 00:30:04,416 - range_collector - INFO - No suspicious transaction flows detected for FkuEG9zVQggkDQUvkVWRHKjP2gRRX5BzQQJwmAUyuNJV
+2025-04-25 00:45:26,588 - helius_collector - INFO - Initialized Helius collector
+2025-04-25 00:45:26,594 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-25 00:45:26,595 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-25 00:45:26,646 - vybe_collector - INFO - Getting top holders for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:45:37,746 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A7B90>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:37,746 - vybe_collector - INFO - Getting top holders for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:45:37,790 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A5B50>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:37,792 - vybe_collector - INFO - Getting top holders for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:45:38,082 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/top-holders?limit=100&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A6840>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:38,103 - vybe_collector - INFO - Getting token details for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:45:38,417 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A4320>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:38,417 - rugcheck_collector - INFO - Getting token report for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:45:38,673 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/report
+2025-04-25 00:45:38,675 - vybe_collector - INFO - Getting price OHLCV for HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB
+2025-04-25 00:45:38,751 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3HFnNnfmj8UrAB/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744926338&timeEnd=1745531138 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A74D0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:38,751 - vybe_collector - INFO - Getting token details for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:45:39,084 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A4F20>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:39,085 - rugcheck_collector - INFO - Getting token report for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:45:39,244 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/report
+2025-04-25 00:45:39,244 - vybe_collector - INFO - Getting price OHLCV for jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY
+2025-04-25 00:45:39,419 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/jtojtomepa8beP8AuQc6eXt5FriJwTMt8qPucZNEBxY/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744926339&timeEnd=1745531139 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0B3C20>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:39,420 - vybe_collector - INFO - Getting token details for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:45:39,754 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/token/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0B0AD0>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))
+2025-04-25 00:45:39,754 - rugcheck_collector - INFO - Getting token report for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:45:39,912 - rugcheck_collector - ERROR - Failed to make API request: 401 Client Error: Unauthorized for url: https://api.rugcheck.xyz/v1/tokens/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/report
+2025-04-25 00:45:39,913 - vybe_collector - INFO - Getting price OHLCV for FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2
+2025-04-25 00:45:40,087 - vybe_collector - ERROR - Failed to make API request: HTTPSConnectionPool(host='api.vybe.io', port=443): Max retries exceeded with url: /v1/price/FfmxuKM3dxhJuosGn1S4KKgVGTxj5FcVWHf9Rs4zC5K2/token-ohlcv?limit=100&page=1&resolution=1h&timeStart=1744926339&timeEnd=1745531139 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029DED0A6360>: Failed to resolve 'api.vybe.io' ([Errno 11001] getaddrinfo failed)"))

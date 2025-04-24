@@ -1,0 +1,12 @@
+2025-04-24 22:13:41,403 - solana_guard - INFO - Initializing SolanaGuard
+2025-04-24 22:13:41,404 - helius_collector - INFO - Initialized Helius collector
+2025-04-24 22:13:41,405 - range_collector - INFO - Initialized Range collector
+2025-04-24 22:13:41,406 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-24 22:13:41,406 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-24 22:13:41,407 - solana_guard - INFO - SolanaGuard initialized successfully
+2025-04-25 00:49:09,380 - solana_guard - INFO - Initializing SolanaGuard
+2025-04-25 00:49:09,380 - helius_collector - INFO - Initialized Helius collector
+2025-04-25 00:49:09,381 - range_collector - INFO - Initialized Range collector
+2025-04-25 00:49:09,381 - rugcheck_collector - INFO - Initialized RugCheck collector
+2025-04-25 00:49:09,383 - vybe_collector - INFO - Initialized Vybe collector
+2025-04-25 00:49:09,383 - solana_guard - INFO - SolanaGuard initialized successfully
