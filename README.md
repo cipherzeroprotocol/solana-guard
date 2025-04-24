@@ -1,15 +1,41 @@
-# SolanaGuard: Unified Blockchain Analysis Platform
+<div align="center">
+  <img src="https://via.placeholder.com/200x200?text=SolanaGuard" alt="SolanaGuard Logo" width="200"/>
+  <h1>SolanaGuard</h1>
+  <p><strong>Unified Blockchain Analysis Platform</strong></p>
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Solana](https://img.shields.io/badge/Solana-Blockchain-14F195)](https://solana.com/)
+  [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+  [![GitHub Issues](https://img.shields.io/github/issues/cipherzeroprotocol/solana-guard)](https://github.com/cipherzeroprotocol/solana-guard/issues)
+</div>
+
+---
+
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#️-project-structure)
+- [Getting Started](#-getting-started)
+- [Analysis Capabilities](#-analysis-capabilities)
+- [Usage Examples](#-usage-examples)
+- [API Documentation](#-api-documentation)
+- [Advanced Configuration](#-advanced-configuration)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Disclaimer](#️-disclaimer)
+
+## 📝 Overview
 
 SolanaGuard is a comprehensive analysis platform for the Solana blockchain, designed to detect suspicious activities, money laundering patterns, token insider trading, and various attack vectors. It provides analytical tools for both researchers and end-users to understand and identify risks in the Solana ecosystem.
 
 ## 🌟 Features
 
-- **Address Analysis**: Analyze wallet addresses for risk factors and suspicious behavior
-- **Token Analysis**: Evaluate tokens for rug pull potential and insider trading patterns
-- **Money Laundering Detection**: Identify potential money laundering routes and patterns
-- **Attack Pattern Detection**: Detect dusting attacks, address poisoning attempts, and other security threats
-- **Risk Scoring**: Calculate comprehensive risk scores for addresses and tokens
-- **Interactive Dashboards**: Visualize blockchain data through interactive Streamlit dashboards and Dune Analytics queries
+- **Address Analysis** - Analyze wallet addresses for risk factors and suspicious behavior
+- **Token Analysis** - Evaluate tokens for rug pull potential and insider trading patterns
+- **Money Laundering Detection** - Identify potential money laundering routes and patterns
+- **Attack Pattern Detection** - Detect dusting attacks, address poisoning attempts, and other security threats
+- **Risk Scoring** - Calculate comprehensive risk scores for addresses and tokens
+- **Interactive Dashboards** - Visualize blockchain data through interactive Streamlit dashboards and Dune Analytics queries
 
 ## 🛠️ Project Structure
 
@@ -63,6 +89,9 @@ solana-guard/
 
 ### Installation
 
+<details>
+<summary>Click to expand installation steps</summary>
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/cipherzeroprotocol/solana-guard.git
@@ -86,8 +115,12 @@ solana-guard/
    ```bash
    python main.py --address your_solana_address
    ```
+</details>
 
 ### Using the Dashboard
+
+<details>
+<summary>Click to expand dashboard instructions</summary>
 
 1. Navigate to the dashboard directory:
    ```bash
@@ -100,24 +133,28 @@ solana-guard/
    ```
 
 3. Open your browser at `http://localhost:8501` to access the dashboard.
+</details>
 
 ## 📊 Analysis Capabilities
 
 ### Address Analysis
 
-- Risk scoring based on transaction patterns
-- Money laundering route detection
-- Dusting attack identification
-- Address poisoning detection
-- Transaction flow visualization
+| Feature | Description |
+|---------|-------------|
+| Risk Scoring | Evaluate risk based on transaction patterns |
+| Money Laundering Detection | Identify potential laundering routes |
+| Attack Identification | Detect dusting attacks and address poisoning |
+| Flow Visualization | Visualize transaction flows graphically |
 
 ### Token Analysis
 
-- Rug pull risk assessment
-- Insider trading pattern detection
-- Token creator behavior analysis
-- Liquidity concentration analysis
-- Wash trading detection
+| Feature | Description |
+|---------|-------------|
+| Rug Pull Assessment | Evaluate risk of token abandonment |
+| Insider Trading Detection | Identify suspicious trading patterns |
+| Creator Analysis | Analyze token creator behavior |
+| Liquidity Analysis | Assess concentration of liquidity |
+| Wash Trading Detection | Identify artificial volume creation |
 
 ### Blockchain Security
 
@@ -175,7 +212,8 @@ print(f"Risk level: {risk_score['risk_level']}")
 
 SolanaGuard integrates with several external APIs to gather data for analysis:
 
-### Helius API
+<details>
+<summary><strong>Helius API</strong> - Transaction data and account information</summary>
 
 Used for fetching Solana transaction data, account information, and token transfers.
 
@@ -183,8 +221,10 @@ Used for fetching Solana transaction data, account information, and token transf
   - `get_account_info`: Get account information
   - `get_transaction`: Get detailed transaction data
   - `get_token_accounts_by_owner`: Get token accounts owned by an address
+</details>
 
-### Range API
+<details>
+<summary><strong>Range API</strong> - Risk scoring and cross-chain analysis</summary>
 
 Used for risk scoring, cross-chain analysis, and money laundering detection.
 
@@ -192,8 +232,10 @@ Used for risk scoring, cross-chain analysis, and money laundering detection.
   - `get_address_risk_score`: Get risk score for an address
   - `analyze_money_laundering_routes`: Identify money laundering patterns
   - `detect_cross_chain_flows`: Detect cross-chain fund flows
+</details>
 
-### RugCheck API
+<details>
+<summary><strong>RugCheck API</strong> - Token analysis and rug pull assessment</summary>
 
 Used for token analysis, insider detection, and rug pull assessment.
 
@@ -201,8 +243,10 @@ Used for token analysis, insider detection, and rug pull assessment.
   - `get_token_report`: Get detailed token report
   - `get_token_insider_graph`: Get insider network for a token
   - `check_token_eligibility`: Check if a token is eligible for verification
+</details>
 
-### Vybe API
+<details>
+<summary><strong>Vybe API</strong> - Token activity and holder distribution</summary>
 
 Used for token activity analysis, holder distribution, and program interaction.
 
@@ -210,19 +254,28 @@ Used for token activity analysis, holder distribution, and program interaction.
   - `get_token_details`: Get token details and 24h activity
   - `get_token_top_holders`: Get top token holders
   - `get_token_transfers`: Get token transfer transactions
+</details>
 
 ## 🔧 Advanced Configuration
 
 You can customize the behavior of SolanaGuard by modifying the configuration in `config.py`:
 
-- `DATA_DIR`: Location for storing data and outputs
-- `CACHE_DIR`: Location for caching API responses
-- `RATE_LIMIT`: API rate limiting settings
-- `LOG_LEVEL`: Logging verbosity
+| Setting | Description |
+|---------|-------------|
+| `DATA_DIR` | Location for storing data and outputs |
+| `CACHE_DIR` | Location for caching API responses |
+| `RATE_LIMIT` | API rate limiting settings |
+| `LOG_LEVEL` | Logging verbosity |
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## 📄 License
 
@@ -230,5 +283,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Disclaimer
 
-SolanaGuard is an analytical tool designed for research purposes. The risk scores and pattern detections should not be considered as definitive proof of illicit activity. Always exercise caution and perform your own due diligence when dealing with blockchain transactions.#   s o l a n a - g u a r d  
- 
+> **Note**: SolanaGuard is an analytical tool designed for research purposes. The risk scores and pattern detections should not be considered as definitive proof of illicit activity. Always exercise caution and perform your own due diligence when dealing with blockchain transactions.
